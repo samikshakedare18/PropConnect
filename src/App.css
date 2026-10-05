@@ -83,7 +83,7 @@ body {
 }
 
 
- Card hover effect */
+/* Card hover effect */
 
 .property-card:hover {
     transform: translateY(-5px);
